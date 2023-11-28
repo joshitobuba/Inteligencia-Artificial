@@ -1,1 +1,7 @@
-index3.md
+### MODULO 3 - PANDAS, NUMPY y MATPLOTLIB.
+
+## 3.1.- [PANDAS]()
+
+## 3.2.- [NUMPY]()
+
+## 3.3.- [MATPLOTLIB]()
