@@ -11,7 +11,7 @@ bla
 
 ## Requisitos:
 
-bla bla
+bla bLA
 
 
 ## Horario: 
