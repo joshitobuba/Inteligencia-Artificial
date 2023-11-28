@@ -1,6 +1,6 @@
 # 4.- SHALLOW LEARNING: 
 
-## 4.0.- [TUTORIAL MACHINE LEARNING](ttps://docs.google.com/document/d/1YrCu-qSm4viNmN5eQfOxw-pxNdy44dOQgdi-TF6wzTo)
+## 4.0.- [TUTORIAL MACHINE LEARNING](https://docs.google.com/document/d/1YrCu-qSm4viNmN5eQfOxw-pxNdy44dOQgdi-TF6wzTo)
 
 ## 4.1.- SKLEARN  
 
