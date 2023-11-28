@@ -1,6 +1,6 @@
 # PYTHON TUTORIAL COMPLETO EN GOOGLE COLABORATORY (EJERCICIOS INCLUIDOS)
 
-## [TUTORIAL DE PYTHON](https://colab.research.google.com/drive/1HDTb-On525tE0M5POKIMTcG5MJ56Wvk5)
+## [TUTORIAL DE PYTHON](https://colab.research.google.com/drive/1HDTb-On525tE0M5POKlMTcG5MJ56Wvk5)
 
 
 ### 1.- VARIABLES.
