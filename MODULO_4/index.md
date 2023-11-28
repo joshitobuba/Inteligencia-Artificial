@@ -1,12 +1,12 @@
-# SHALLOW LEARNING: 
+# 4.- SHALLOW LEARNING: 
 
-## SKLEARN  
+## 4.1.- SKLEARN  
 
-## REGRESION 
+## 4.2.- REGRESION 
 
-## CLASIFICACION 
+## 4.3.- CLASIFICACION 
 
-##CLUSTERIZACION.
+## 4.4.- CLUSTERIZACION.
 
 
 ### [Parte 1](https://colab.research.google.com/drive/1mPQWrFucxVYfdVBMFu2yFI8doT48yFNc)
