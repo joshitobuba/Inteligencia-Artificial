@@ -1,32 +1,32 @@
 # Intelligencia Artificial:
 Intelligencia Artificial con python.
-# ¿Cuales son los objetivos del curso?
+## ¿Cuales son los objetivos del curso?
 bla bla bla
-# Requisitos:
+## Requisitos:
 bla bla
-# Horario: 
+## Horario: 
  Turno de fin de semana del 01 de enero al 31 de diciembre de 2024
  * a definir
-# Modalidad: 
+## Modalidad: 
 * Presencial.
-# Requisitos para aprobar:
+## Requisitos para aprobar:
 Nota examenes parciales superior a 5 en todos.
 
-# CONTENIDO:
+## CONTENIDO:
 
-## MODULO I - CONCEPTOS BASICOS DE MATEMATICAS.
+### MODULO I - CONCEPTOS BASICOS DE MATEMATICAS.
 
-## MODULO II - PYTHON.
+### MODULO II - PYTHON.
   
-## MODULO III - PANDAS, NUMPY y MATPLOTLIB.
+### MODULO III - PANDAS, NUMPY y MATPLOTLIB.
 
-## MODULO IV - SHALLOW LEARNING: SKLEARN, REGRESION, CLASIFICACION y CLUSTERIZACION.
+### MODULO IV - SHALLOW LEARNING: SKLEARN, REGRESION, CLASIFICACION y CLUSTERIZACION.
 
-## MODULO V - DEEP LEARNING: REDES NEURONALES PROFUNDAS, TENSORFLOW y KERAS.
+### MODULO V - DEEP LEARNING: REDES NEURONALES PROFUNDAS, TENSORFLOW y KERAS.
 
-## MODULO VI - LENGUAJE NATURAL(NLP): MODELOS ALGORITMICOS.
+### MODULO VI - LENGUAJE NATURAL(NLP): MODELOS ALGORITMICOS.
 
-# PROYECTO:
+## PROYECTO:
 A elegir.
 
 ## Bibliografia
