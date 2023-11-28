@@ -1,4 +1,4 @@
-# MODULO 3 - PANDAS, NUMPY y MATPLOTLIB.
+# PANDAS, NUMPY y MATPLOTLIB.
 (Ultimas versiones online actualizadas)
 
 
