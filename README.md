@@ -128,7 +128,7 @@ A elegir.
 
 ## Bibliografia de consulta:
 
-- Data Science from Scratch (O'Reilly) de Joel Grus presenta los fundamentos del
+- [Data Science from Scratch (O'Reilly)](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) de Joel Grus presenta los fundamentos del
 Machine Learning e implementa algunos de los principales algoritmos en Python puro
 (desde cero, como su nombre indica).
 - Aprendizaje automático: An Algorithmic Perspective (Chapman &
