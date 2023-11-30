@@ -5,32 +5,63 @@ Intelligencia Artificial con python.
 
 ## ¿Cuales son los objetivos del curso?
 
-bla bla bla
-bla
+Estos objetivos incluyen:
+
+Fundamentos de Python para IA/ML:
+
+1.-Asegurar que los estudiantes tengan un sólido entendimiento del lenguaje de programación Python, ya que es ampliamente utilizado en IA y ML por su simplicidad y la rica disponibilidad de bibliotecas.
+Comprensión Teórica de IA y ML:
+
+2.-Proporcionar una base sólida en los conceptos teóricos detrás de la inteligencia artificial y el aprendizaje automático, incluyendo algoritmos, modelos estadísticos y matemáticos.
+
+3.-Práctica con Datos Reales:
+Permitir a los estudiantes trabajar con conjuntos de datos reales para practicar la limpieza, manipulación y análisis de datos, habilidades esenciales en ML.
+Aplicación de Algoritmos de ML:
+
+4.-Enseñar cómo implementar y ajustar varios algoritmos de ML, como regresión lineal, árboles de decisión, redes neuronales, etc.
+
+5.-Conocimiento de Bibliotecas Específicas:
+
+6.-Familiarizar a los estudiantes con bibliotecas y herramientas específicas de Python para IA y ML, como NumPy, Pandas, Scikit-learn, TensorFlow y Keras.
+Desarrollo y Evaluación de Modelos:
+
+7.-Instruir en la construcción, entrenamiento, prueba y evaluación de modelos de ML, incluyendo la comprensión de métricas de rendimiento y validación cruzada.
+Solución de Problemas del Mundo Real:
+
+8.-Aplicar el conocimiento de IA/ML a problemas del mundo real, preparando a los estudiantes para enfrentar desafíos prácticos en sus carreras.
+Conciencia Ética y Responsable:
+
+9.-Discutir consideraciones éticas en IA, como sesgo en datos y algoritmos, privacidad, y uso responsable de la tecnología.
+Investigación y Desarrollo Continuo:
+
+10.-Fomentar una mentalidad de aprendizaje continuo y exploración, dado que IA y ML son campos en rápida evolución.
+
+11.-Proyecto Final:
+
+Incluir un proyecto final que consolide todo el aprendizaje, donde los estudiantes puedan aplicar sus conocimientos y habilidades en un proyecto integral, preferiblemente relacionado con sus intereses o áreas de trabajo.
+Al final del curso, los estudiantes deben estar equipados no solo con habilidades técnicas, sino también con una comprensión práctica de cómo aplicar IA y ML de manera efectiva y ética en diferentes contextos.
 
 
 ## Requisitos:
 
-Conocimientos basicos de matematicas, informtica y programacion
+Conocimientos básicos de matemáticas, informática y programación.
 
 
 ## Horario: 
 
- Turno de fin de semana del 01 de enero al 31 de diciembre de 2024
- * a definir
- * 
- * 
+ A DEFINIR
 
 
 ## Modalidad: 
 
 * Presencial.
-* 
+* Online
+* Híbrido
 
 
 ## Requisitos para aprobar:
 
-Nota examenes parciales superior a 5 en todos.
+Asistir como mínimo al 75% de las sesiones ya sean presenciales u online
 
 
 ## Contenido:
@@ -98,6 +129,31 @@ A elegir.
 
 
 ## Bibliografia de consulta:
+
+- Data Science from Scratch (O'Reilly) de Joel Grus presenta los fundamentos del
+Machine Learning e implementa algunos de los principales algoritmos en Python puro
+(desde cero, como su nombre indica).
+- Aprendizaje automático: An Algorithmic Perspective (Chapman &
+Hall) es una gran introducción al aprendizaje automático, que cubre una amplia gama de temas en profundidad con ejemplos de código en Python.
+en profundidad con ejemplos de código en Python (también desde cero, pero utilizando NumPy).
+- Python Machine Learning (Packt Publishing) de Sebastian Raschka es también una gran
+introducción al aprendizaje automático y aprovecha las bibliotecas de código abierto de Python
+(Pylearn 2 y Theano).
+- Deep Learning with Python de François Chollet (Manning) es un libro muy práctico
+que cubre un amplio abanico de temas de forma clara y concisa, como cabría esperar
+del autor de la excelente biblioteca Keras. Favorece los ejemplos de código sobre la teoría matemática.
+teoría matemática.
+- The Hundred-Page Machine Learning Book, de Andriy Burkov, es muy corto y cubre una impresionante gama de temas.
+de Andriy Burkov es muy corto y abarca una impresionante gama de temas, presentándolos en términos accesibles sin rehuir las ecuaciones matemáticas.
+sin rehuir las ecuaciones matemáticas.
+- El libro de Yaser S. Abu-Mostafa, Malik Magdon-Ismail y Hsuan-Tien Lin Learning from
+(AMLBook) de Yaser S. Abu-Mostafa, Malik Magdon-Ismail y Hsuan-Tien Lin es un enfoque más bien teórico del
+en particular sobre el equilibrio entre sesgo y varianza (véase el capítulo 4).
+- Artificial Intelligence, de Stuart Russell y Peter Norvig: A Modern Approach, 3rd
+edición (Pearson), es un libro excelente (y enorme) que abarca una cantidad increíble de temas, incluido el aprendizaje automático.
+temas, incluido el aprendizaje automático.
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) de Jake VanderPlas | Libro de introducción a la ciencia de datos con Python. Cubre una introducción a los cuadernos de Jupyter y el uso de librerías como NumPy, Pandas, Matplotlib y Scikit-learn. 
 * [Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data, and The Cloud](https://www.amazon.com/-/es/Paul-Deitel/dp/0135404673/) de Paul Deitel y Harvey Deitel | Introducción a la programación en Python para ciencia de datos. Este es un gran punto de partida si nunca has programado en este lenguaje.
