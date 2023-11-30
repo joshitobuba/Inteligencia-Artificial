@@ -2,13 +2,13 @@
 
 ## 4.1.- [TUTORIAL MACHINE LEARNING](https://docs.google.com/document/d/1YrCu-qSm4viNmN5eQfOxw-pxNdy44dOQgdi-TF6wzTo)
 
-## 4.2.- SKLEARN  
+###  4.1.1.- SKLEARN  
 
-## 4.3.- REGRESION 
+###  4.1.2.- REGRESION 
 
-## 4.4.- CLASIFICACION 
+###  4.1.3.- CLASIFICACION 
 
-## 4.5.- CLUSTERIZACION.
+###  4.1.4.- CLUSTERIZACION.
 
 
 Últimas versiones online actualizadas:
