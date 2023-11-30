@@ -12,5 +12,3 @@
 
 ###  4.2.4.- CLUSTERIZACION.
 
-
-## 4.3.-?  [SHALLOW LEARNING parte 2](https://colab.research.google.com/drive/1Sf1PSahnE42XimsG1kBwSAEnEMPup9lz)
