@@ -7,37 +7,34 @@ Intelligencia Artificial con python.
 
 Estos objetivos incluyen:
 
-Fundamentos de Python para IA/ML:
+1.- Fundamentos de Python para IA/ML:
+Asegurar que los estudiantes tengan un sólido entendimiento del lenguaje de programación Python, ya que es ampliamente utilizado en IA y ML por su simplicidad y la rica disponibilidad de bibliotecas.
 
-1.-Asegurar que los estudiantes tengan un sólido entendimiento del lenguaje de programación Python, ya que es ampliamente utilizado en IA y ML por su simplicidad y la rica disponibilidad de bibliotecas.
-Comprensión Teórica de IA y ML:
-
-2.-Proporcionar una base sólida en los conceptos teóricos detrás de la inteligencia artificial y el aprendizaje automático, incluyendo algoritmos, modelos estadísticos y matemáticos.
+2.- Comprensión Teórica de IA y ML:
+Proporcionar una base sólida en los conceptos teóricos detrás de la inteligencia artificial y el aprendizaje automático, incluyendo algoritmos, modelos estadísticos y matemáticos.
 
 3.-Práctica con Datos Reales:
 Permitir a los estudiantes trabajar con conjuntos de datos reales para practicar la limpieza, manipulación y análisis de datos, habilidades esenciales en ML.
-Aplicación de Algoritmos de ML:
 
-4.-Enseñar cómo implementar y ajustar varios algoritmos de ML, como regresión lineal, árboles de decisión, redes neuronales, etc.
+4.- Aplicación de Algoritmos de ML
+Enseñar cómo implementar y ajustar varios algoritmos de ML, como regresión lineal, árboles de decisión, redes neuronales, etc.
 
-5.-Conocimiento de Bibliotecas Específicas:
+5.- Conocimiento de bibliotecas especificas
+Familiarizar a los estudiantes con bibliotecas y herramientas específicas de Python para IA y ML, como NumPy, Pandas, Scikit-learn, TensorFlow y Keras.
 
-6.-Familiarizar a los estudiantes con bibliotecas y herramientas específicas de Python para IA y ML, como NumPy, Pandas, Scikit-learn, TensorFlow y Keras.
-Desarrollo y Evaluación de Modelos:
+6.- Desarrollo y Evaluación de Modelos:
+Instruir en la construcción, entrenamiento, prueba y evaluación de modelos de ML, incluyendo la comprensión de métricas de rendimiento y validación cruzada.
 
-7.-Instruir en la construcción, entrenamiento, prueba y evaluación de modelos de ML, incluyendo la comprensión de métricas de rendimiento y validación cruzada.
-Solución de Problemas del Mundo Real:
+7.- Solución de Problemas del Mundo Real:
+Aplicar el conocimiento de IA/ML a problemas del mundo real, preparando a los estudiantes para enfrentar desafíos prácticos en sus carreras.
 
-8.-Aplicar el conocimiento de IA/ML a problemas del mundo real, preparando a los estudiantes para enfrentar desafíos prácticos en sus carreras.
-Conciencia Ética y Responsable:
+8.-Conciencia Ética y Responsable:
+Discutir consideraciones éticas en IA, como sesgo en datos y algoritmos, privacidad, y uso responsable de la tecnología.
 
-9.-Discutir consideraciones éticas en IA, como sesgo en datos y algoritmos, privacidad, y uso responsable de la tecnología.
-Investigación y Desarrollo Continuo:
+9.-Investigación y Desarrollo Continuo:
+Fomentar una mentalidad de aprendizaje continuo y exploración, dado que IA y ML son campos en rápida evolución.
 
-10.-Fomentar una mentalidad de aprendizaje continuo y exploración, dado que IA y ML son campos en rápida evolución.
-
-11.-Proyecto Final:
-
+10.-Proyecto Final:
 Incluir un proyecto final que consolide todo el aprendizaje, donde los estudiantes puedan aplicar sus conocimientos y habilidades en un proyecto integral, preferiblemente relacionado con sus intereses o áreas de trabajo.
 Al final del curso, los estudiantes deben estar equipados no solo con habilidades técnicas, sino también con una comprensión práctica de cómo aplicar IA y ML de manera efectiva y ética en diferentes contextos.
 
@@ -61,7 +58,8 @@ Conocimientos básicos de matemáticas, informática y programación.
 
 ## Requisitos para aprobar:
 
-Asistir como mínimo al 75% de las sesiones ya sean presenciales u online
+Asistir como mínimo al 75% de las sesiones ya sean presenciales u online y entregar los proyectos
+
 
 
 ## Contenido:
