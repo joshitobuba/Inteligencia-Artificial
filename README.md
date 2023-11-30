@@ -64,7 +64,7 @@ Asistir como mínimo al 75% de las sesiones ya sean presenciales u online y entr
 
 ## Contenido:
 
-## MODULO 1 - CONCEPTOS BASICOS DE MATEMATICAS.
+## MODULO 1 - CONCEPTOS BASICOS DE MATEMATICAS:
 
 ### 1.1.- Algebra lineal: Vectores y matrices.
 
@@ -73,7 +73,7 @@ Asistir como mínimo al 75% de las sesiones ya sean presenciales u online y entr
 ### 1.3.- Probabilidad y estadistica.
 
 
-## MODULO 2 - PYTHON.
+## MODULO 2 - PYTHON:
 
 
 ### 2.1.- VARIABLES.
@@ -109,16 +109,28 @@ Asistir como mínimo al 75% de las sesiones ya sean presenciales u online y entr
 ### 2.16.- FUNCION LAMBDA.
 
   
-## MODULO 3 - PANDAS, NUMPY y MATPLOTLIB.
+## MODULO 3 - PANDAS, NUMPY y MATPLOTLIB:
 
-## 3.1.- PANDAS
+## 3.1.- PANDAS.
 
-## 3.2.- NUMPY
+## 3.2.- NUMPY.
 
-## 3.3.- MATPLOTLIB
+## 3.3.- MATPLOTLIB.
 
 
-## MODULO 4 - SHALLOW LEARNING: SKLEARN, REGRESION, CLASIFICACION y CLUSTERIZACION.
+## MODULO 4 - SHALLOW LEARNING: SKLEARN, REGRESION, CLASIFICACION y CLUSTERIZACION:
+
+### 4.1.- TUTORIAL MACHINE LEARNING.
+
+### 4.2.- SHALLOW LEARNING.
+
+### 4.2.1.- SKLEARN.
+
+### 4.2.2.- REGRESION.
+
+### 4.2.3.- CLASIFICACION.
+
+### 4.2.4.- CLUSTERIZACION..
 
 
 ## MODULO 5 - DEEP LEARNING: REDES NEURONALES PROFUNDAS, TENSORFLOW y KERAS.
