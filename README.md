@@ -11,7 +11,7 @@ bla
 
 ## Requisitos:
 
-bla bLA
+Conocimientos basicos de matematicas, informtica y programacion
 
 
 ## Horario: 
