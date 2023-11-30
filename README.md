@@ -140,7 +140,11 @@ Asistir como mínimo al 75% de las sesiones ya sean presenciales u online y entr
 ### 5.2.- 
 
 
-## MODULO 6 - LENGUAJE NATURAL(NLP): MODELOS ALGORITMICOS.
+## MODULO 6 - LENGUAJE NATURAL(NLP): MODELOS ALGORITMICOS:
+
+### 6.1.- WORDTOVECT.
+
+### 6.2.-
 
 
 ## Proyecto:
