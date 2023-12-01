@@ -1,6 +1,6 @@
-# 1.- [CONCEPTOS BASICOS DE MATEMATICAS.](https://colab.research.google.com/drive/17YGIaSmzGOhdDc6dwgIwfyuq7dTF_VZ2)  
-(Última versión online auto-actualizada)  
+# 1.- [CONCEPTOS BASICOS DE MATEMATICAS.(Última versión online auto-actualizada)](https://colab.research.google.com/drive/17YGIaSmzGOhdDc6dwgIwfyuq7dTF_VZ2)  
 
+  
 Cuaderno de Google Colaboratory que incluye:
 
 ## 1.1.- Algebra lineal: Vectores y matrices.
