@@ -1,6 +1,6 @@
 # 2.- PYTHON TUTORIAL COMPLETO EN GOOGLE COLABORATORY (EJERCICIOS INCLUIDOS)
 
-## [TUTORIAL DE PYTHON (Ultima version online auto-actualizada)](https://colab.research.google.com/drive/1HDTb-On525tE0M5POKlMTcG5MJ56Wvk5)
+## [TUTORIAL DE PYTHON (Última versión online auto-actualizada)](https://colab.research.google.com/drive/1HDTb-On525tE0M5POKlMTcG5MJ56Wvk5)
 
 
 ### 2.1.- VARIABLES.
@@ -34,4 +34,3 @@
 ### 2.15.- CLASES Y OBJETOS.
 
 ### 2.16.- FUNCION LAMBDA.
-
