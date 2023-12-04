@@ -1,7 +1,7 @@
 # 2.- PYTHON TUTORIAL COMPLETO EN GOOGLE COLABORATORY (EJERCICIOS INCLUIDOS)
 
-## [TUTORIAL DE PYTHON (Última versión online auto-actualizada)](https://colab.research.google.com/drive/1HDTb-On525tE0M5POKlMTcG5MJ56Wvk5)
-
+## [TUTORIAL DE PYTHON (Última versión online auto-actualizada)](https://colab.research.google.com/drive/1HDTb-On525tE0M5POKlMTcG5MJ56Wvk5)  
+Cuaderno de Google Colaboratory que incluye:
 
 ### 2.1.- VARIABLES.
 
