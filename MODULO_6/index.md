@@ -10,6 +10,6 @@
 
 ### 6.3.2.- [Ejercicio traductor simultaneo](https://colab.research.google.com/drive/1PM_Mxo3WXGKq7TUMU5H-HjauFNIg5xr7)
 
-### 6.3.3.- [Generacion de texto]
+### 6.3.3.- [Generacion de texto](http://google.com/404)
 
-### 6.3.4.- [Asistencia telefonica]
+### 6.3.4.- [Asistencia telefonica](http://google.com/404)
