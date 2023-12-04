@@ -2,7 +2,7 @@
 
 ## 6.1.- Generacion de texto.
 
-  ### 6.1.1.- [Word2Vec. (ejercicio)](https://colab.research.google.com/drive/1NMOJkdvRD2g-pGCTKWzOed2dhN85f7Tc)
+  ### 6.1.1.- [Generación de Texto. (ejercicio)](https://colab.research.google.com/drive/1NMOJkdvRD2g-pGCTKWzOed2dhN85f7Tc)
 
 ## 6.2.- Chatbot
 
