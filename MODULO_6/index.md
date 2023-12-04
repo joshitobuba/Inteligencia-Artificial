@@ -8,6 +8,6 @@
 
 ### 6.3.1.- [Chatbot](http://google.com/404)
 
-### 6.3.2.- [Ejercicio traductor simultaneo](https://raw.githubusercontent.com/CharlieScot/Intelligencia-Artificial/main/MODULO_6/TraductorSimultaneo.ipynb?token=GHSAT0AAAAAACK7WEBRQROOVYDIPL7GIVP4ZLNUSPQ)
+### 6.3.2.- [Ejercicio traductor simultaneo](https://colab.research.google.com/drive/17EhfH7xi9YLRfvhqN_KNnQRsn-Ud_ifQ)
 
 ### 6.3.3.- [Generacion de texto](http://google.com/404)
