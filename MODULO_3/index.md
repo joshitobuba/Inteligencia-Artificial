@@ -2,7 +2,7 @@
 (Ultimas versiones online actualizadas)
 
 
-## 3.1.- [¿Qué es Machine Learning?](MODULO_3/Qué es Machine Learning.pdf)
+## 3.1.- [¿Qué es Machine Learning?](https://github.com/CharlieScot/Inteligencia-Artificial/blob/main/MODULO_3/Qu%C3%A9%20es%20Machine%20Learning.pdf)
 
 ## 3.1.- [PANDAS](https://colab.research.google.com/drive/1TO1uqx2ymCVspA7CXyDWraCGOdDZ_K6_)
 
