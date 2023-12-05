@@ -124,27 +124,41 @@ Asistir como mínimo al 75% de las sesiones ya sean presenciales u online y entr
 
 ### 4.2.- SHALLOW LEARNING.
 
-### 4.2.1.- SKLEARN.
+#### 4.2.1.- SKLEARN.
 
-### 4.2.2.- REGRESION.
+#### 4.2.2.- REGRESION.
 
-### 4.2.3.- CLASIFICACION.
+#### 4.2.3.- CLASIFICACION.
 
-### 4.2.4.- CLUSTERIZACION..
+###3 4.2.4.- CLUSTERIZACION..
 
 
 ## MODULO 5 - DEEP LEARNING: REDES NEURONALES PROFUNDAS, TENSORFLOW y KERAS:
 
-### 5.1.- TENSORFLOW.
+### 5.- TENSORFLOW
 
-### 5.2.- 
+#### 5.1.- TENSORFLOW
+
+#### 5.2.- MLP
+
+#### 5.3.- Ejercicio Vision Computadora
 
 
 ## MODULO 6 - LENGUAJE NATURAL(NLP): MODELOS ALGORITMICOS:
 
-### 6.1.- WORDTOVECT.
+### 6.- NLP
 
-### 6.2.-
+### 6.1.- Generacion de texto.
+
+#### 6.1.1.- Generación de Texto. (ejercicio)
+
+### 6.2.- Chatbot
+
+#### 6.2.1.- Chatbot. (ejercicio)
+
+### 6.3.- Traduccion simultanea
+
+#### 6.3.1.- Traductor simultaneo. (ejercicio)
 
 
 ## Proyecto:
