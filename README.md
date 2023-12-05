@@ -141,7 +141,7 @@ Asistir como mínimo al 75% de las sesiones ya sean presenciales u online y entr
 
 #### 5.2.- MLP
 
-#### 5.3.- Ejercicio Vision Computadora
+#### 5.3.- Ejercicio Vision Computadora (CNN)
 
 #### 5.4.- Ejercicio predicción precio de acciones (RNN)
 
