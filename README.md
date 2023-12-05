@@ -130,7 +130,7 @@ Asistir como mínimo al 75% de las sesiones ya sean presenciales u online y entr
 
 #### 4.2.3.- CLASIFICACION.
 
-###3 4.2.4.- CLUSTERIZACION..
+#### 3 4.2.4.- CLUSTERIZACION..
 
 
 ## MODULO 5 - DEEP LEARNING: REDES NEURONALES PROFUNDAS, TENSORFLOW y KERAS:
@@ -163,7 +163,7 @@ Asistir como mínimo al 75% de las sesiones ya sean presenciales u online y entr
 
 ## Proyecto:
 
-A elegir.
+### A elegir.
 
 
 ## Bibliografia de consulta:
