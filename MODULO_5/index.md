@@ -4,4 +4,4 @@
 
 ## 5.2.- [MLP](https://colab.research.google.com/drive/10CRbmac70omN-wA2Zmew-ZUPQ0ABEpS6)
 
-## 5.3.- [Ejercicio Vision Computadora]
+## 5.3.- [Ejercicio Vision Computadora]()
