@@ -143,6 +143,8 @@ Asistir como mínimo al 75% de las sesiones ya sean presenciales u online y entr
 
 #### 5.3.- Ejercicio Vision Computadora
 
+#### 5.4.- Ejercicio predicción precio de acciones (RNN)
+
 
 ## MODULO 6 - LENGUAJE NATURAL(NLP): MODELOS ALGORITMICOS:
 
