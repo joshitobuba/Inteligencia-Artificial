@@ -2,7 +2,7 @@
 
 ## 4.1.- [Introduccion ¿Qué es Machine Learning?](https://github.com/CharlieScot/Inteligencia-Artificial/blob/main/MODULO_3/Qu%C3%A9%20es%20Machine%20Learning.pdf)
 
-## 4.2.- [TUTORIAL MACHINE LEARNING - PDF](https://docs.google.com/document/d/1YrCu-qSm4viNmN5eQfOxw-pxNdy44dOQgdi-TF6wzTo)
+## 4.2.- [TUTORIAL MACHINE LEARNING - PDF](https://colab.research.google.com/drive/1mPQWrFucxVYfdVBMFu2yFI8doT48yFNc?usp=drive_link)
 
 ## 4.3.-  [SHALLOW LEARNING (Sklearn) - Colab](https://colab.research.google.com/drive/1mPQWrFucxVYfdVBMFu2yFI8doT48yFNc?usp=sharing)
 
