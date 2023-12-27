@@ -6,4 +6,4 @@
 
 ## 3.2.- [MATPLOTLIB](https://colab.research.google.com/drive/1-Wol8mDltt57ET0vQVfkgOAcI8-vglKJ)
 
-## 3.3.- [NUMPY](https://drive.google.com/file/d/1EwMu2pY4zYDvZJl04spKkF8i5xEW7sgg/view?usp=sharing)
+## 3.3.- [NUMPY](https://colab.research.google.com/drive/1tZGDlCLvaP2hLLKJClioogEgF0pk7spA?usp=sharing)
