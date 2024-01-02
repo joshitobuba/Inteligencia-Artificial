@@ -1,6 +1,6 @@
 # 1.- CONCEPTOS BASICOS DE MATEMATICAS.
 
-## 1.1.- [Presentacion matematicas para ciencia de datos e iA.](https://github.com/CharlieScot/Inteligencia-Artificial/blob/main/MODULO_1/MATEMATICAS%20CIENCIA%20DE%20DATOS%20E%20IA.pptx)
+## 1.1.- [Presentacion matematicas para ciencia de datos e iA.](https://github.com/CharlieScot/Inteligencia-Artificial/blob/main/MODULO_1/MATEMATICAS%20CIENCIA%20DE%20DATOS%20E%20IA.pdf)
 
 ## 1.2- [Cuaderno de Google colaboratory matematicas aplicadas (Última versión online auto-actualizada)](https://colab.research.google.com/drive/17YGIaSmzGOhdDc6dwgIwfyuq7dTF_VZ2)  
 
