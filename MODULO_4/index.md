@@ -1,6 +1,6 @@
 # 4.- SHALLOW LEARNING: 
 
-## 4.1.- [TUTORIAL MACHINE LEARNING - PDF](https://drive.google.com/file/d/1vlrIB92ChrjEwTwYTaxRBMtF66snn6eO/view)
+## 4.1.- [TUTORIAL MACHINE LEARNING - PDF](https://docs.google.com/document/d/1ROF-sp4tdTWSpgHIIrcFF3DHdSncPJd1fzc914L4_N0)
 
 ## 4.2.-  [SHALLOW LEARNING (Sklearn) - Colab](https://colab.research.google.com/drive/1shW83I8RQktlwxXn4wHjWYbcM5tsYuTf)
 
