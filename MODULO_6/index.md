@@ -14,6 +14,6 @@
 
 ## 6.4.- Analisis de sentimiento.
 
-  ### 6.4.1.- [Analisis de sentimiento (ejercicio)](https://colab.research.google.com/)
+  ### 6.4.1.- [Analisis de sentimiento (ejercicio)](https://colab.research.google.com/drive/1ifRnlG0P76oe4u3zUMD_58xda8BDtQVI)
 
 
