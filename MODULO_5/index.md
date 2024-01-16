@@ -1,4 +1,4 @@
-# 5.- TENSORFLOW
+# 5.- DEEP LEARNING
 
 ## 5.1.- [Introducción a Deep Learning - PDF](https://drive.google.com/file/d/1l9nmpYT6CwiW-LsS1FcBGfLNZAMOm8_y/view?usp=sharing)
 
