@@ -6,7 +6,7 @@
 
 ## 6.2.- Chatbot.
 
-  ### 6.2.1.- [Chatbot. (ejercicio)](https://colab.research.google.com/drive/1-L4wXKjjA2wvF7UgFYlSBSINDQBtqjk4)
+  ### 6.2.1.- [Chatbot. (ejercicio)](https://colab.research.google.com/drive/1w5scmbrqO328rYKXuYePGOthwNZmVJJc)
 
 ## 6.3.- Traduccion simultanea.
 
